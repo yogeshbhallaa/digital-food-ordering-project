@@ -166,11 +166,3 @@ The repository includes generated showcase visuals under `docs/images/` so the G
 ## 💼 Skills Demonstrated
 
 **Java • Swing • JDBC • MySQL • SQL • CRUD • Authentication • Session/State Management • Shopping Cart • Order Processing • Bill Generation • GUI Development • NetBeans • Apache Ant • Git/GitHub**
-
-## 📌 Project Status
-
-**Portfolio / Educational Project** — core ordering and administration workflows are included. Production deployment requires the security and configuration improvements listed above.
-
-## 📄 License
-
-This project is provided for educational and portfolio purposes.
