@@ -1,0 +1,16 @@
+# Java dependencies
+Java/src/libs/*.jar
+
+# Compiled Java files
+*.class
+
+# Build output
+build/
+dist/
+Java/build/
+Java/dist/
+
+# IDE / OS files
+.DS_Store
+.idea/
+*.iml
