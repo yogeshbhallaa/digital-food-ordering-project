@@ -92,8 +92,6 @@ The `SQL/` directory contains scripts for the application's main data areas:
 
 Create the required MySQL database, import these scripts, and update the application's database connection settings for your local environment.
 
-> **Security note:** Do not commit real database passwords or production credentials. The original application contains a local database connection value; replace it with your own development credentials before running the project.
-
 ## 🚀 Setup
 
 ### Prerequisites
